@@ -17,7 +17,7 @@ buildIdentifier: "#${BUILD_NUMBER}"
 5. run 'pytest test_elpais.py -v -s' for local testing
 
 **To view Public Test Results visit:** 
-https://automate.browserstack.com/projects/El+Pa%C3%ADs+Opinion+Scraper/builds/El+Pa%C3%ADs+Scraper+Cross+Browser+Test/13?tab=unique_errors&public_token=3fc733d557136e675ce67a5a526bd732641aa9d2a5e37e677ca6bd58d07928e8
+https://automate.browserstack.com/projects/El+Pa%C3%ADs+Opinion+Scraper/builds/El+Pa%C3%ADs+Scraper+Cross+Browser+Test/13?tab=sessions&public_token=3fc733d557136e675ce67a5a526bd732641aa9d2a5e37e677ca6bd58d07928e8
 
 **Screenshot of Build Running on Google Drive** 
 https://drive.google.com/file/d/1O4che2Ubw6P8UNcX93fC8lfOWLIVtghY/view?usp=sharing
