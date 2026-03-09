@@ -26,6 +26,6 @@ https://drive.google.com/file/d/1O4che2Ubw6P8UNcX93fC8lfOWLIVtghY/view?usp=shari
 ![alt text](BuildRunningScreenshot.png)
 
 
-**To View Google Drive Folder with Test Results:** 
+**To View Google Drive Folder with Test Results and presentation:** 
 https://drive.google.com/drive/folders/1hduQ1Nm2KXe-Hv61ZEdGBre5tS4RTFB7?usp=sharing
 
